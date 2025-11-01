@@ -8,7 +8,21 @@ this is a testcomment
 
 # code example
 
-## bash
+# bash
 ```
 date --rfc-email 
 ```
+
+# task list
+
+## - [ ]
+
+- [ ] item 1
+- [ ] item 2
+- [ ] item 3
+
+## + [ ]
+
++ [ ] testitem1
++ [ ] testitem 2
++ [ ] testitem 3
