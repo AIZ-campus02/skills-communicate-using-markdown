@@ -2,5 +2,13 @@
 
 this is a testcomment
 
+# images
+
 ![Image of Mona Lovelace](https://octodex.github.com/images/mona-lovelace.jpg)
 
+# code example
+
+## bash
+```
+date --rfc-email 
+```
